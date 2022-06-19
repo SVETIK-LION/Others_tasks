@@ -26,8 +26,8 @@ def generate_phrase(name_1: str, name_2: str, damage: int, weapon: str, type_att
 
 
 
-print(generate_phrase('Единорожка', 'Муся-Пуся', 14, 'Рог', 'ATACK'))
-print(generate_phrase('Ололошка', 'Кентавриха', 6, 'СвинцовоеКопыто', 'FAIL'))
-print(generate_phrase('ЧеткийГепард', 'БогСолнца', 0, 'ЛучиДобра', 'BLOCK'))
-print(generate_phrase('Кошка', 'Собака', 8, 'Когти', 'no_name'))
+# print(generate_phrase('Единорожка', 'Муся-Пуся', 14, 'Рог', 'ATACK'))
+# print(generate_phrase('Ололошка', 'Кентавриха', 6, 'СвинцовоеКопыто', 'FAIL'))
+# print(generate_phrase('ЧеткийГепард', 'БогСолнца', 0, 'ЛучиДобра', 'BLOCK'))
+# print(generate_phrase('Кошка', 'Собака', 8, 'Когти', 'no_name'))
 
